@@ -1,0 +1,53 @@
+* {
+    margin    : 0;
+    padding   : 0;
+    box-sizing: border-box;
+    color     : black;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+}
+
+body {
+    font-family: "RobotoCondensed-Light";
+    font-size  : 18px;
+    line-height: 21px;
+}
+
+button{
+    outline: none;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.container {
+    max-width: 1230px;
+    margin   : 0 auto;
+    padding  : 0 15px;
+}
+
+.hotel__container{
+    max-width: 1230px;
+    margin   : 0 auto;
+    padding  : 0 15px;
+}
+
+.page-section {
+    margin: 200px auto;
+    max-width: 1920px;
+}
+
